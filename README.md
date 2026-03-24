@@ -33,13 +33,13 @@ Studied cybercrime (phishing) and created:
 ---
 
 ## 🛠️ Tools & Platforms Used
-Canva – for designing infographic
-GitHub – for project submission and version control
-Google Forms – for creating digital literacy quiz
-HackerRank – for coding practice
-LinkedIn – for professional networking
-Kaggle – for data science practice
-Google Docs / MS Word – for report creation
+- Canva – for designing infographic
+- GitHub – for project submission and version control
+- Google Forms – for creating digital literacy quiz
+- HackerRank – for coding practice
+- LinkedIn – for professional networking
+- Kaggle – for data science practice
+- Google Docs – for report creation
 
 ---
 
