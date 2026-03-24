@@ -60,7 +60,7 @@ Studied cybercrime (phishing) and created:
 - report (final project report)
 
 ---
-## 🙏 Conclusion
+## 🎯 Conclusion
 This project helped in building strong digital literacy skills which are essential for academic and professional growth. It also increased awareness about safe and responsible use of technology.
 
 ---
