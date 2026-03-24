@@ -1,28 +1,42 @@
 Email 1:
 
+To: professor@vitbhopal.ac.in  
+Subject: Request for Extension of Assignment Submission  
+
 Dear Sir/Ma’am,
 
-I hope you are doing well. I am writing to request a short extension for the submission of my assignment due to some unforeseen circumstances.
+I hope you are doing well. I am writing to request an extension for the submission of my Digital Literacy assignment, originally due on [date].
 
-I kindly request you to grant me a few extra days to complete and submit the assignment. I assure you that I will submit it as soon as possible.
+Due to some unavoidable circumstances, I was unable to complete the assignment on time. I kindly request you to grant me a few additional days to complete and submit it.
+
+I assure you that I will submit the assignment as soon as possible.
 
 Thank you for your understanding.
 
-Yours sincerely,
-Rahul Rahangdale
-Int. M.Tech (AI)
+Yours sincerely,  
+Rahul Rahangdale  
+Reg No: 25MIM10035  
+Int. M.Tech (AI)  
+VIT Bhopal
 
 
 Email 2:
 
+To: hr@company.com  
+Subject: Application for Summer Internship Opportunity  
+
 Dear Sir/Ma’am,
 
-I hope this message finds you well. I am Rahul Rahangdale, a first-year B.Tech (AI) student at VIT Bhopal. I am writing to express my interest in applying for a summer internship opportunity at your organization.
+I hope this message finds you well. My name is Rahul Rahangdale, and I am a first-year Int M.Tech (AI) student at VIT Bhopal University.
 
-I am eager to gain practical experience and enhance my skills. I would be grateful if you could consider my application.
+I am writing to express my interest in a summer internship opportunity at your organization. I am eager to gain practical experience and enhance my skills in the field of technology and data science.
+
+I would be grateful if you could consider my application. I am willing to learn and contribute to your organization.
 
 Thank you for your time and consideration.
 
-Yours sincerely,
-Rahul Rahangdale
-Int. M.Tech (AI)
+Yours sincerely,  
+Rahul Rahangdale  
+Reg No: 25MIM10035  
+Int. M.Tech (AI)  
+VIT Bhopal
