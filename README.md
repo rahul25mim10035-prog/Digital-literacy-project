@@ -50,7 +50,7 @@ Studied cybercrime (phishing) and created:
 
 ## 👤 Author
 **Rahul Rahangdale**  
-Reg No: 25MIMI10035  
+Reg No: 25MIM10035  
 Integrated M.Tech (AI)  
 
 ---
