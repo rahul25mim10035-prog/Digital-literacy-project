@@ -18,25 +18,28 @@ Built a professional digital portfolio using:
 ### 🔹 Task 3: Quiz & Coding
 - Solved a coding problem on HackerRank  
 - Created a Google Form quiz with MCQs, correct answers, and marks
+- 👉 Google Form Link:
+https://docs.google.com/forms/d/e/1FAIpQLSc1tNJX_j8S9LGf5LKE6phfcBLSy-6J2CWTWbHxy3F--OUzjA/viewform?usp=header
 
 ### 🔹 Task 4: Email Etiquette
 Learned and implemented professional email writing with proper structure and tone.
 
 ### 🔹 Task 5: Cybercrime Awareness
 Studied cybercrime (phishing) and created:
-- Case study  
-- Prevention checklist  
-- Reflection  
+- Developed a case study on cybercrime
+- Created a prevention checklist
+- Wrote a personal reflection 
 
 ---
 
-## 🛠️ Tools Used
-- Canva  
-- Google Forms  
-- GitHub  
-- LinkedIn  
-- Kaggle  
-- HackerRank  
+## 🛠️ Tools & Platforms Used
+Canva – for designing infographic
+GitHub – for project submission and version control
+Google Forms – for creating digital literacy quiz
+HackerRank – for coding practice
+LinkedIn – for professional networking
+Kaggle – for data science practice
+Google Docs / MS Word – for report creation
 
 ---
 
@@ -48,13 +51,6 @@ Studied cybercrime (phishing) and created:
 
 ---
 
-## 👤 Author
-**Rahul Rahangdale**  
-Reg No: 25MIM10035  
-Integrated M.Tech (AI)  
-
----
-
 ## 📁 Repository Structure
 - task-1-presentation  
 - task-2-portfolio  
@@ -62,5 +58,17 @@ Integrated M.Tech (AI)
 - task-4-email-etiquette  
 - task-5-cybercrime  
 - report (final project report)
+
+---
+## 🙏 Conclusion
+This project helped in building strong digital literacy skills which are essential for academic and professional growth. It also increased awareness about safe and responsible use of technology.
+
+---
+
+## 👤 Author
+**Rahul Rahangdale**  
+Reg No: 25MIM10035  
+Integrated M.Tech (AI)  
+Institute: VIT Bhopal
 
 ---
